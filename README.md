@@ -6,6 +6,7 @@ An interactive product prototype and analytics dashboard demonstrating automated
 
 ## 📌 Context & Problem Statement
 Healthcare providers face significant revenue leakage due to uncollected claims, missing documentation, and billing errors. Industry standards recommend maintaining a **Net Collection Rate (NCR) between 95–99%** and keeping **Days in Accounts Receivable (A/R) under 50 days**. 
+Resource: https://www.smartertech.com/articles/revenue-cycle-management-statistics-a-data-driven-look-at-healthcare-finance
 
 Using a synthetic dataset of 1,000 healthcare claims (`claim_data.csv`), this project identifies key financial bottlenecks and models how Candid Health's automated platform and AI agents can restore revenue collection to benchmark levels.
 
